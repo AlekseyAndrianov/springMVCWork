@@ -39,5 +39,6 @@
         </tr>
     </c:forEach>
 </table>
+<a href="/add-new-order">Add new order</a>
 </body>
 </html>
